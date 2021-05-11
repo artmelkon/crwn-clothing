@@ -17,7 +17,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "compile:sass": "sass --watch src/pages/homepage/homepage.styles.scss:src/pages/homepage/homepage.styles.css src/components/menu-item/menu-item.styles.scss:src/components/menu-item/menu-item.styles.css src/components/directory/directory.styles.scss:src/components/directory/directory.styles.css"
+    "compile:sass": "sass --watch src/pages/homepage/homepage.styles.scss:src/pages/homepage/homepage.styles.css src/components/menu-item/menu-item.styles.scss:src/components/menu-item/menu-item.styles.css src/components/directory/directory.styles.scss:src/components/directory/directory.styles.css src/components/preview-collection/collection-preview.styles.scss:src/components/preview-collection/collection-preview.styles.css src/components/collection-item/collection-item.styles.scss:src/components/collection-item/collection-item.styles.css"
   },
   "eslintConfig": {
     "extends": [
